@@ -12,5 +12,16 @@
       <link>https://seaside2.netlify.app/authors/</link>
     </image>
     
+    <item>
+      <title>Göran Henriksson</title>
+      <link>https://seaside2.netlify.app/author/goran-henriksson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://seaside2.netlify.app/author/goran-henriksson/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt; Download my &lt;a href=&#34;https://seaside2.netlify.app/uploads/resume.pdf&#34; target=&#34;_blank&#34;&gt;resumé&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
