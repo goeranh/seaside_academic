@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://seaside2.netlify.app/sitemap.xml
